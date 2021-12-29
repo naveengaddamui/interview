@@ -69,7 +69,7 @@ h3.card-title{
 .nav-items li>a{
     text-decoration: none;
     color: #30495d;
-    text-shadow: none !important;
+    text-shadow: unset !important;
 }
 
 .nav-items li:hover{
