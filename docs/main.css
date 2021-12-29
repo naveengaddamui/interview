@@ -81,6 +81,7 @@ h3.card-title{
     text-decoration: none;
     letter-spacing: 1px;
     color: #30495d;
+    text-shadow: unset !important;
 }
 
 .footer{
