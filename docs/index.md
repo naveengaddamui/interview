@@ -14,7 +14,7 @@
 </div>
 <div class="container-body">
     <div class="container-card" id="angular-questions">
-        <h3>Angular</h3>
+        <h3 class="card-title">Angular</h3>
         <ol class="questn-list">
             <li><a href="#" target="_blank">What is <strong>Angular</strong>, why Angular</a> ..?</li>
             <li><a href="#" target="_blank">What are the <strong>Pros and Cons</strong> of Angular</a> ..?</li>
@@ -58,7 +58,7 @@
         </ol>
     </div>
     <div class="container-card" id="js-questions">
-        <h3>JavaScript</h3>
+        <h3 class="card-title">JavaScript</h3>
         <ol class="questn-list">
             <li><a href="https://www.w3schools.com/js/js_versions.asp" target="_blank">JavaScript <strong>Versions</strong></a> ..?</li>
             <li><a href="#" target="_blank">JavaScript <strong>Data Types</strong></a> ..?</li>
@@ -83,7 +83,7 @@
         </ol>
     </div>
     <div class="container-card" id="css-questions">
-        <h3>CSS</h3>
+        <h3 class="card-title">CSS</h3>
         <ol class="questn-list">
             <li><a href="#" target="_blank">Explain <strong>CSS Box Model</strong></a> ..?</li>
             <li><a href="#" target="_blank">How we can place a div at <strong>Center of viewport</strong>, vertically & horizontally</a> ..?</li>
@@ -92,10 +92,7 @@
         </ol>
     </div>
     <div class="container-card" id="jquery-questions">
-        <h3>jQuery</h3>
-        <ol class="questn-list">
-           
-        </ol>
+        <h3 class="card-title">jQuery</h3>
     </div>
 </div>
 <footer class="footer">
