@@ -41,7 +41,7 @@ h3.card-title{
 }
 
 .container-card{
-    padding: 5px 15px 0 15px;
+    padding: 5px 45px 0 45px;
 }
 
 .container-card h3{
@@ -50,8 +50,12 @@ h3.card-title{
 
 .questn-list{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
-    grid-column-gap: 45px;
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+    grid-column-gap: 15px;
+    background: #eee;
+    border-radius: 5px;
+    /* box-shadow: 0 1.5px 1.5px -1px #777; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important; */
 }
 
 .questn-list li{
