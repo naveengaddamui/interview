@@ -50,7 +50,7 @@ h3.card-title{
 
 .questn-list{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
 }
 
 .questn-list li{
