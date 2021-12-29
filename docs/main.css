@@ -51,6 +51,7 @@ h3.card-title{
 .questn-list{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+    grid-colmn-gap: 45px;
 }
 
 .questn-list li{
