@@ -13,6 +13,15 @@ body, .nav-items{
     justify-content: space-between;
 }
 
+header{
+    display: none !important;
+}
+
+.container{
+    max-width: unset !important;
+    width: unset !important;
+}
+
 .header span{
     font-weight: 200;
     font-size: 2.5rem;
@@ -25,6 +34,10 @@ body, .nav-items{
     overflow-y: auto;
     scroll-behavior: smooth;
     transition: all 3s ease-out;
+}
+
+h3.card-title{
+    color: #f0543e;
 }
 
 .container-card{
@@ -56,6 +69,7 @@ body, .nav-items{
 .nav-items li>a{
     text-decoration: none;
     color: #30495d;
+    text-shadow: none !important;
 }
 
 .nav-items li:hover{
